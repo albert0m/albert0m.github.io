@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.concorsismart.app",
+    "sha256_cert_fingerprints": [
+      "94:C1:4E:DC:CB:97:C0:83:E3:FF:F1:43:22:F4:56:F0:5E:4E:02:F4:1C:79:AB:42:6F:A5:C0:ED:17:2B:03:FF"
+    ]
+  }
+}]
